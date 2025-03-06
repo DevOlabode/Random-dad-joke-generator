@@ -1,6 +1,5 @@
-# Random-dad-joke-generator
 # 🎭 Random Dad Jokes Generator  
-
+# Description
 A fun web app that fetches and displays random dad jokes! Users can generate new jokes and copy them to the clipboard with a single click.  
 
 ## 🚀 Features  
@@ -11,7 +10,7 @@ A fun web app that fetches and displays random dad jokes! Users can generate new
 
 ## 📸 Screenshot  
 ## 📸 Screenshot  
-![Random Dad Jokes Generator](https://imgur.com/huK80xv)
+<img src="images/initial.png"/>
 
 
 ## 🔧 Technologies Used  
