@@ -6,11 +6,14 @@ A fun web app that fetches and displays random dad jokes! Users can generate new
 - Fetches random dad jokes from [icanhazdadjoke API](https://icanhazdadjoke.com/)  
 - Copy jokes to clipboard  
 - Dynamic background color changes on joke refresh  
-- Simple and responsive UI   
+- Simple and responsive UI
+
 
 ## 📸 Screenshot  
-## 📸 Screenshot  
-<img src="images/Initial.png"/>
+<img src="Images/Initial.PNG"/>
+
+
+<img src="Images/New jokes.PNG"/>
 
 
 ## 🔧 Technologies Used  
