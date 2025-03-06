@@ -10,7 +10,7 @@ A fun web app that fetches and displays random dad jokes! Users can generate new
 
 ## 📸 Screenshot  
 ## 📸 Screenshot  
-<img src="images/initial.png"/>
+<img src="images/Initial.png"/>
 
 
 ## 🔧 Technologies Used  
