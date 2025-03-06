@@ -3,6 +3,7 @@ const jokeDisplay = document.querySelector('#display')
 const allDisplay = document.querySelector('#allDisplay')
 const copyButton = document.querySelector('#copy')
 const copied = document.querySelector('#copied')
+    
 function randomColor() {
     const r = Math.floor(Math.random() * 256) + 10
     const g = Math.floor(Math.random() * 256) + 10
