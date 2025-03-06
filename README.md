@@ -29,7 +29,7 @@ A fun web app that fetches and displays random dad jokes! Users can generate new
 ## 📂 Installation  
 1. Clone the repository:  
    ```sh  
-   git clone https://github.com/DevOlabode/repository-name.git  
+   git clone https://github.com/DevOlabode/Random-dad-joke-generator.git  
    ```  
 2. Open `index.html` in a browser.  
 
