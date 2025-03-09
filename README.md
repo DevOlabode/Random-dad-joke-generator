@@ -13,11 +13,11 @@ A fun web app that fetches and displays random dad jokes! Users can generate new
 ## 📸 Screenshot  
 <img src="Images/Initial.PNG"/>
 
-
-[Project Codepen Link](https://codepen.io/DevOlabode/full/qEBmZbL)
-
 <img src="Images/New jokes.PNG"/>
 
+
+## Live Demo  
+[Project Codepen Link](https://codepen.io/DevOlabode/full/qEBmZbL)
 
 
 ## 🔧 Technologies Used  
