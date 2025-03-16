@@ -17,7 +17,7 @@ A fun web app that fetches and displays random dad jokes! Users can generate new
 
 
 ## Live Demo  
-[Project Codepen Link](https://codepen.io/DevOlabode/full/qEBmZbL)
+You can see a live demo of the project [here](https://codepen.io/DevOlabode/full/qEBmZbL).
 
 
 ## 🔧 Technologies Used  
